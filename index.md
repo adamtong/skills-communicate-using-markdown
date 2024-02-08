@@ -14,3 +14,8 @@ This is non-header text.
 if __name__ == '__main__':
     print('Hello, world!)
 ```
+
+# Add a task list
+- [x] Return light to Clas Ohlson
+- [x] Connect ventilation ducts
+- [ ] Renovate bathroom
